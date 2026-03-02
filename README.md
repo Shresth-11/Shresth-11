@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello , I'm Shresth Jaiswal<br>I'm a 3rd-year student at VIT University, Bhopal, passionate about leveraging technology to create impactful solutions.
+I'm a 3rd-year student at VIT University, Bhopal, passionate about leveraging technology to create impactful solutions.
 
 
 ## 🌐 Socials:
